@@ -1,0 +1,1 @@
+my_list=['monday', 'tuesday', 'wednesday', 'thursaday', 'friday','saturday']
